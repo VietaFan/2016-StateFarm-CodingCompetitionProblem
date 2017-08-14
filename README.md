@@ -1,3 +1,5 @@
+This repository contains the code for our solution to the first round problem of the 2016 [State Farm Coding Competition](https://codingcompetition.statefarm.com/about), in which Cyclicduck and I participated as a team. 
+
 # Welcome
 Welcome to the 2016 State Farm Coding Competition!
 
